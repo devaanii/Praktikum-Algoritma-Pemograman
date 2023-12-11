@@ -1,0 +1,12 @@
+
+Masukkan data Mahasiswa ke-1
+Nama : devani
+NIM : 23343033
+Jurusan : elektronika
+Prodi : informatika
+
+Masukkan data Mahasiswa ke-2
+Nama : radhia
+NIM : 23343000
+Jurusan : elektronika
+Prodi : informatika
